@@ -3,7 +3,7 @@
 
 # Jost : 400, 600, 700
 # Titillium Web : 600
-**********************************************************/
+****************************************************/
 
 :root{
     --font-family-header : 'Titillium Web', sans-serif;
@@ -641,7 +641,7 @@ footer .logo-footer{
         background-size: 400px;
     }
     .container-text-banniere{
-        padding: 10vh 5% 25vh 5%;
+        padding: 15vh 5% 30vh 5%;
     }
     .bt-menu{
         width: 30px;
